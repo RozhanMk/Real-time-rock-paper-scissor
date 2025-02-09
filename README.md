@@ -24,7 +24,7 @@ This project implements a real-time Rock-Paper-Scissors game using **YOLOv8** fo
 ## Bonus point
 -  For anyone interested, the notebook for detecting Rock Paper Scissors using mediapipe library is added to this repository.
 
-## Sources
+## Resources
 - https://github.com/Gholamrezadar/yolo11-rock-paper-scissors-detection
 - [Great code for detecting objects using Yolo in Google Colab with webcam](https://youtu.be/ebAykr9YZ30?si=2Tx_HlV_r4EsBPxi)
 - https://youtu.be/k2EahPgl0ho?si=U-R9ZZeoq7Fx8G0b
